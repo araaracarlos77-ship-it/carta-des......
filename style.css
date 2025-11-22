@@ -30,7 +30,7 @@ body {
 /* 📄 Carta abierta */
 .papel3d {
     width: 200%;        /* ← ancho principal */
-    max-width: 700px;  /* ← límite máximo */
+    max-width: 400px;  /* ← límite máximo */
     padding: 25px;
     position: absolute;
     top: 50%;
